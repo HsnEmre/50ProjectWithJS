@@ -1,4 +1,4 @@
-![image](https://github.com/HsnEmre/50ProjectWithJS/assets/92093161/84e88169-008d-4b0b-9cac-2926bf0f9503)1-)ExpandingCars
+1-)ExpandingCars
 ![image](https://github.com/HsnEmre/50ProjectWithJS/assets/92093161/ffec1b34-135e-4699-b401-9183a34ea4e1)
 
 
