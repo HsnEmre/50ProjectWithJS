@@ -21,3 +21,12 @@
 
 7-)Split Landing Page
 ![7](https://github.com/user-attachments/assets/38929350-b20c-4d4f-a1dd-97980f5978a5)
+
+8-)Form Wave Animation
+![8](https://github.com/user-attachments/assets/1b942ac8-2790-4d29-ada8-bf39a0faaa1a)
+
+9-)Sound Board
+![9](https://github.com/user-attachments/assets/2612814c-d132-4caf-9918-98d8445fc20f)
+
+
+
