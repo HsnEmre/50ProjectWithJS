@@ -10,3 +10,14 @@
 ![image](https://github.com/HsnEmre/50ProjectWithJS/assets/92093161/276f68ff-dd6e-43cf-8a3a-b3476e74d161)
 
 
+4-)Hidden Search Widget
+![Ekran Alıntısı](https://github.com/user-attachments/assets/19576d1d-bddf-4df1-b86f-27eacb8a362c)
+
+5-)Burry Loading
+![5](https://github.com/user-attachments/assets/b95d71e4-36dc-4c6e-ae8d-9670cdc1851a)
+
+6-)Project Intro
+![6](https://github.com/user-attachments/assets/b81b6fec-70d0-4053-83ec-5cb5adc8f707)
+
+7-)Split Landing Page
+![7](https://github.com/user-attachments/assets/38929350-b20c-4d4f-a1dd-97980f5978a5)
