@@ -43,3 +43,6 @@
 14-)Animated Navigation
 ![15 2](https://github.com/user-attachments/assets/6d18a592-5b0f-41c7-bd8d-e077ef593631)
 ![15 1](https://github.com/user-attachments/assets/1d634add-5808-4fea-9415-1df21a0a94b7)
+
+15-) Incrementing Counter
+![16](https://github.com/user-attachments/assets/f213b108-0430-452f-8e3a-2bfb117bf695)
