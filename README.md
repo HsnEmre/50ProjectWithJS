@@ -46,3 +46,7 @@
 
 15-) Incrementing Counter
 ![16](https://github.com/user-attachments/assets/f213b108-0430-452f-8e3a-2bfb117bf695)
+
+16-) Drink Water
+![16 1](https://github.com/user-attachments/assets/318458d5-5f8d-4a27-9542-6106a5cfbbf3)
+![16 2](https://github.com/user-attachments/assets/454f82bd-2862-4520-ba0d-3fdbdf71ef58)
