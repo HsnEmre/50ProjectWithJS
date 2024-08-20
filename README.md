@@ -28,5 +28,11 @@
 9-)Sound Board
 ![9](https://github.com/user-attachments/assets/2612814c-d132-4caf-9918-98d8445fc20f)
 
+10-)Dad Jokes
+![10](https://github.com/user-attachments/assets/bb7a570a-ee10-48e8-915b-72e538a9ed93)
+
+11-)Event Key Codes
+![11](https://github.com/user-attachments/assets/5e983b6b-0d01-4276-ad1f-611e54c5740d)
+
 
 
