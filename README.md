@@ -53,3 +53,6 @@
 
 17-)Movie App
 ![18 1](https://github.com/user-attachments/assets/4c93879a-8217-44df-8cb9-9b6f28961f54)
+
+19-)Background slider
+![19](https://github.com/user-attachments/assets/413439e0-bda6-414d-b2eb-7ff3090719f6)
