@@ -50,3 +50,6 @@
 16-) Drink Water
 ![16 1](https://github.com/user-attachments/assets/318458d5-5f8d-4a27-9542-6106a5cfbbf3)
 ![16 2](https://github.com/user-attachments/assets/454f82bd-2862-4520-ba0d-3fdbdf71ef58)
+
+17-)Movie App
+![18 1](https://github.com/user-attachments/assets/4c93879a-8217-44df-8cb9-9b6f28961f54)
