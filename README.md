@@ -54,5 +54,9 @@
 17-)Movie App
 ![18 1](https://github.com/user-attachments/assets/4c93879a-8217-44df-8cb9-9b6f28961f54)
 
-19-)Background slider
+18-)Background slider
 ![19](https://github.com/user-attachments/assets/413439e0-bda6-414d-b2eb-7ff3090719f6)
+
+19-) Theme Clock
+![20 1](https://github.com/user-attachments/assets/bb3a6a51-c773-4381-86f7-5ee81f4c899e)
+![20 2](https://github.com/user-attachments/assets/ddeb6fce-e023-46b0-ac07-7ec9b52b23ff)
