@@ -60,3 +60,13 @@
 19-) Theme Clock
 ![20 1](https://github.com/user-attachments/assets/bb3a6a51-c773-4381-86f7-5ee81f4c899e)
 ![20 2](https://github.com/user-attachments/assets/ddeb6fce-e023-46b0-ac07-7ec9b52b23ff)
+
+20-)Button Ripe Effect
+![2](https://github.com/user-attachments/assets/68b02f07-2df5-40ca-8b47-fa88a26a8bb4)
+
+21-)Drag N Drop
+![Ekran Alıntısı](https://github.com/user-attachments/assets/6fc204d0-0a57-4a81-b7a4-1270493fb291)
+
+22-)Drawing App
+![3](https://github.com/user-attachments/assets/72b9b53d-ea19-4a75-867b-69442a0eb898)
+
